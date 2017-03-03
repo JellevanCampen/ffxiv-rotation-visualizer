@@ -1,0 +1,1 @@
+alert("FFXIV Rotation Visualizer");
